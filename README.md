@@ -1,4 +1,4 @@
-# markup-template
+# markup-template-pug
 
 ## How to start:
 1. add node_modules
